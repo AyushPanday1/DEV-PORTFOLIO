@@ -1,0 +1,19 @@
+{
+  "name": "done",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushPanday1/DEV-PORTFOLIO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyushPanday1/DEV-PORTFOLIO/issues"
+  },
+  "homepage": "https://github.com/AyushPanday1/DEV-PORTFOLIO#readme"
+}
